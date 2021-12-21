@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan-zadehsakha&show_icons=true&theme=tokyonight&locale=en" alt="shayan-zadehsakha" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan-zadehsakha&" alt="shayan-zadehsakha" /></p>
