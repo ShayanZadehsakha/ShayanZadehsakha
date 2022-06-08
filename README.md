@@ -13,16 +13,18 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **[Exir](https://github.com/shayan-zadehsakha/Exir)**
+- 👨‍💻 I’m currently working on Hamtimi Startup
 
-- 🌱 I’m currently learning **[Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server), [ dotnet](https://dotnet.microsoft.com/en-us/) and [ dotnet maui](https://docs.microsoft.com/en-us/dotnet/maui/)**
+- 🎓 I learned **[Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server), [ Dotnet](https://dotnet.microsoft.com/en-us/), [C# WinForm](https://www.c-sharpcorner.com/article/windows-form-application-c-sharp/), [C# WPF](https://wpf-tutorial.com/) and I'm currently learning [ Dotnet MAUI](https://docs.microsoft.com/en-us/dotnet/maui/), [ Python](https://dotnet.microsoft.com/en-us/](https://www.python.org/))**
 
-- 👨‍💻 All of my projects are available at **[shayan-zadehsakha](https://github.com/shayan-zadehsakha)**
+- 📚 All of my projects are available at **[shayan-zadehsakha]([https://github.com/shayan-zadehsakha](https://github.com/shayan-zadehsakha?tab=repositories))**
 
 - 📫 My Emails : 
   
   - **Gmail : shayan1386zs@gmail.com**
-
+  
+  - **Yahoo : shayan1386zs@yahoo.com**
+  
   - **Outlook : shayan1386zs@outlook.com**
 
 <div align="center">
@@ -41,8 +43,8 @@
   
 <h1 align="center">Connect with me <img width="45" src="https://user-images.githubusercontent.com/93381804/147072364-30e3ae31-5c3a-4ddb-95cf-fb75dd8f5336.png"</h1>
 <h3 align="center">
-<a href="https://twitter.com/a_tavana1385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_tavana1385" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17091010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17091010" height="30" width="40" /></a>
+<a href="https://twitter.com/mr_zadehsakha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_tavana1385" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17730940/shayan-zadeh-sakha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17091010" height="30" width="40" /></a>
 </h3>
   
 <h1 align="center">Languages and Tools <img width="45" src="https://user-images.githubusercontent.com/93381804/147076270-ce2b2883-c7e4-4b54-b890-ec2e98de46ea.png"</h1>
