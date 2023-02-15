@@ -13,8 +13,6 @@
   </a>
 </p>
 
-- 👨‍💻 I’m currently working on Hamtimi Startup
-
 - 🎓 I learned **[Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server), [ Dotnet](https://dotnet.microsoft.com/en-us/), [C# WinForm](https://www.c-sharpcorner.com/article/windows-form-application-c-sharp/), [C# WPF](https://wpf-tutorial.com/) and I'm currently learning [ Dotnet MAUI](https://docs.microsoft.com/en-us/dotnet/maui/), [ Python](https://dotnet.microsoft.com/en-us/](https://www.python.org/))**
 
 - 📚 All of my projects are available at **[shayan-zadehsakha]([https://github.com/shayan-zadehsakha](https://github.com/shayan-zadehsakha?tab=repositories))**
